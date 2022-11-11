@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jovian Anthony Jaison.</h1>
+<h1 align="center">Hi, I'm Jovian Anthony Jaison.</h1>
 <h3 align="center">An enthusiastic CS graduate student at San Jose State University. I have experience in Full stack web development and computer vision.</h3>
 
 - 🔭 I’m currently working on **Dynamic Pricing of Networking Resources using Reinforcement Learning.**
