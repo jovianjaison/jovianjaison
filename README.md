@@ -7,7 +7,7 @@
 
 ### Glad to see you here!
 
-I'm a graduate student in Computer Science 🎓 at San Jose State University 🏛. I love to solve problems using code! 💡. 
+I'm a Production Engineer for PyTorch @Meta. I love to solve problems using code! 💡. 
 
 <img align="right" height="250" width="375" alt="" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" />
 
@@ -19,7 +19,6 @@ I'm a graduate student in Computer Science 🎓 at San Jose State University �
 ### Also...
 
 - 📫 &nbsp; How to reach me: jovianjaison@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/drive/u/0/folders/1GGMJAt1dXWlCWfeaUXLpgjY5De8o6JH3).
 
 ### Languages and Tools:
 
